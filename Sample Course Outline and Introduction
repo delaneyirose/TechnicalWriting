@@ -1,0 +1,16 @@
+Introduction: Create Accessible Documents in Microsoft Word
+
+Welcome to Word!
+Microsoft Word is often used by people with a variety of disabilities and offers numerous tools to support creating accessible documents. 
+Though the text within Word documents can be read by assistive technologies like screen readers and Braille devices, it is important to note, that for Word documents to be fully accessible, document authors should routinely create documents that contain:
+● Headings
+● Lists, when needed
+● Proper hyperlinks
+● Alternate text for images and other visual elements
+● Tables that are accessible
+Additionally, authors should use the Accessibility Checker to check all their documents for any additional accessibility issues that may go unnoticed. It’s important to make sure your documents are accessible to everyone since you never know who may need to read them some day!
+
+This Skill Track will teach you how to:
+● Format headings and lists
+● Format hyperlinks
+● Add alternate text to visual elements and use the Accessibility Checker
