@@ -1,0 +1,29 @@
+Subject: Office 365 - Microsoft Teams
+
+Create a Private Channel
+1. Private channels are channels within a team that can only be accessed by team 
+members and guests that have been added to the private channel.
+2. A user may want to create a private channel to limit collaboration to specific users, or 
+prompt communication between a specific group of people who are assigned to a 
+project, but do not want to create a new team.
+3. Please note that unless private channel creation has been enabled for members of a 
+team, only team owners will be able to create a private channel.
+4. In the left navigation pane, click “Teams.”
+5. Locate the team to modify.
+6. Click the “More Options” icon.
+7. Select “Add Channel.”
+8. Select the “Channel Name” field, and enter a name for the channel.
+9. Select the “Description” field, and enter a description for the channel, if desired.
+10. Click the “Privacy” drop-down.
+11. Select “Private.”
+12. Click “Next.”
+13. Select the “Start Typing A Name” field, and enter the name of the member to add to the 
+channel.
+14. Select the member to add.
+15. To add another member, repeat the process.
+16. Click “Add.”
+17. To change the permissions of a private channel member, click the “Permissions” drop-
+down for the member to modify.
+18. Select the permission level to apply.
+19. When finished, click “Done.”
+20. The private channel is now available to members of your team.
